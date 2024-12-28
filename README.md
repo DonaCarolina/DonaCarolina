@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that allow me to learn different coding languages
 - 📫 How to reach me: via GitHub!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am not good at learning but I love to learn.
+- ⚡ Fun fact: I have fun cleaning databases 
 
 <!---
 DonaCarolina/DonaCarolina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
